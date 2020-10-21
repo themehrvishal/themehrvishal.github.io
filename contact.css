@@ -1,0 +1,17 @@
+form {
+  border: steelblue solid;
+  padding: 20px 20px 20px 20px;
+  width: fit-content;
+  font-family: cursive;
+  border-radius: 20px;
+  color: white;
+  background-color: navy;
+}
+
+h1 {
+  background-color: white;
+}
+
+body {
+  background-image: url("https://www.htmlcsscolor.com/preview/gallery/7FFFD4.png");
+}

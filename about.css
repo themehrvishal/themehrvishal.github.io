@@ -1,0 +1,13 @@
+img {
+  width: auto
+  height: auto
+}
+body {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: larger;
+  color: purple;
+  background-image: url("https://pm-site-assets-py4.s3.us-east-2.amazonaws.com/products/legacy/pastel_pink_solid_sq.jpg");
+  background-size: cover;
+
+
+}

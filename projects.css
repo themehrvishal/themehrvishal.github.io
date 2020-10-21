@@ -1,0 +1,14 @@
+img {
+    width: auto
+    height: auto
+  }
+  body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+    color: coral;
+    background-image: url("https://i.pinimg.com/originals/cc/f3/2a/ccf32a07e858a1376cc9d837ded7add6.png");
+    background-size: cover;
+  
+  
+  }
+  
